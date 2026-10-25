@@ -1,6 +1,6 @@
 # Hello World 👋
 
-Repository pertama saya di GitHub — sebuah perkenalan singkat tentang siapa saya dan apa yang saya kerjakan.
+Repository pertama saya di GitHub - sebuah perkenalan singkat tentang siapa saya dan apa yang saya kerjakan.
 
 ## Tentang Saya
 
