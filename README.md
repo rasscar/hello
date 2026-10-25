@@ -8,11 +8,11 @@ Saya seorang **Go Developer** yang berfokus pada **competitive programming**, **
 
 Pendekatan pengembangan yang saya terapkan:
 
-- **Pragmatis** — menyelesaikan masalah secara langsung dan efisien.
-- **Prosedural** — alur logika ditulis eksplisit, mudah dibaca, dan mudah dilacak.
-- **Dependensi minimal** — mengutamakan standard library dan implementasi manual.
-- **Edge case eksplisit** — kasus batas selalu ditangani di awal fungsi (*guard clause*).
-- **Penamaan semantik** — variabel dan fungsi diberi nama yang jelas dan kontekstual.
+- **Pragmatis** - menyelesaikan masalah secara langsung dan efisien.
+- **Prosedural** - alur logika ditulis eksplisit, mudah dibaca, dan mudah dilacak.
+- **Dependensi minimal** - mengutamakan standard library dan implementasi manual.
+- **Edge case eksplisit** - kasus batas selalu ditangani di awal fungsi (*guard clause*).
+- **Penamaan semantik** - variabel dan fungsi diberi nama yang jelas dan kontekstual.
 
 ## Fokus
 
